@@ -24,8 +24,6 @@ When it comes to AI, companies typically test the waters proof of concepts or sm
 
 If things go well, they pursue another project, then another — and soon they’re relying on a sprawl of incompatible systems, competing data lakes, problems with cost overruns, duplication of efforts, and an inability to scale, not to mention privacy, compliance or ethics problems.
 
-[ Cut through the hype with our practical guide to machine learning in business and find out the10 signs you’re ready for AI — but might not succeed. | | Get the latest insights with our CIO Daily newsletter. ]
-
 At some point, the benefits of AI become obvious enough, and the pain of continuing on their present path so acute, that companies step back to develop a cohesive strategy for an enterprise-wide AI-powered transformation.
 
 I will focus specifically on GitBooks that are made in [Rstudio](https://rstudio.com), using the [`rmarkdown` markup language](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf), rendered using the [`bookdown` package](https://bookdown.org/yihui/bookdown/get-started.html), and hosted on [GitHub](https://github.com/). If you want to get started, skip ahead to Chapter \@ref(prerequisites); if you need more convincing, keep reading below.
