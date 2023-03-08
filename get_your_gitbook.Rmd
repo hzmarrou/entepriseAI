@@ -9,6 +9,8 @@ To get your GitBook, you should follow these steps:
 3. My repository is now copied to your account. It is a template repository, which means that you can create a *new repository* based on this one.
 4. Create a new repository for your own GitBook. Create one for a course you've been wanting to update. In the top-right corner of the GitHub website, click the + icon, and select "New repository":  
     ![](./img/new_repo.png)
+    ![](./entepriseai-model.png.png)
+    
 5. In the dialog, select the `gitbook-demo` as "Repository template", and give the repository an appropriate name for your course. Then, press `Create repository`:  
     ![](./img/from_template.png)
 6. Now, go back to Rstudio on your computer. In Rstudio, click `File > New Project`. A dialog will open. If you set up Rstudio with Git correctly, the dialog should have an option to create a new project from Version control. Click it:  
