@@ -15,7 +15,7 @@ biblio-style: apalike
 ---
 
 <!--"Using GitBooks to create Open course materials"-->
-# About GitBooks
+# Anatomy of an enterprise-scale AI strategy
 
 ![](./img/entepriseai-model.png)
 
