@@ -1,5 +1,5 @@
 --- 
-title: "How to Scale AI in the Enterprise AI"
+title: "Enterprise AI"
 subtitle: 'The shift from pilot projects to full-scale AI fluency '
 author: '[dr. Hicham Zmarrou](https://www.linkedin.com/in/hzmarrou/)'
 date: "`r Sys.Date()`"
