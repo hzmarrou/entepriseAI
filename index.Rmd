@@ -1,12 +1,11 @@
 --- 
-title: "A GitBook Example for Teaching"
-author: "[dr. Caspar J. van Lissa](https://www.uu.nl/staff/CJvanLissa)"
+title: "How to Scale AI in the Enterprise"
+author: '[dr. Hicham Zmarrou](https://www.linkedin.com/in/hzmarrou/)'
 date: "`r Sys.Date()`"
-description: This GitBook is an example of a GitBook for teaching. It can be 
-  adapted for specific courses. The output format for this example
-  is bookdown::gitbook.
+description: This GitBook is an example of a GitBook for teaching. It can be adapted
+  for specific courses. The output format for this example is bookdown::gitbook.
 documentclass: book
-github-repo: cjvanlissa/gitbook-demo
+github-repo: "hzmarrou/EnterpriseAI"
 link-citations: yes
 bibliography:
 - book.bib
@@ -18,7 +17,7 @@ biblio-style: apalike
 <!--"Using GitBooks to create Open course materials"-->
 # About GitBooks
 
-![](./img/using_gitbook.jpeg)
+![](./img/entepriseai-model.png)
 
 A *GitBook* is a useful tool for creating (open?) educational resources. It is an online "book" format, that can be hosted directly from a GitHub repository. You are currently reading a GitBook designed to help you get started creating your own educational GitBooks for your courses (how meta!). It does this in two ways: By explaining how to create GitBooks, and by serving as a template that you can copy and edit, instead of having to start from scratch. This template GitBook has all the settings that I consider to be useful for educational GitBooks, but you can always customize it.
 
