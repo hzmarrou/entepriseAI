@@ -1,5 +1,6 @@
 --- 
-title: "How to Scale AI in the Enterprise"
+title: "How to Scale AI in the Enterprise AI"
+subtitle: 'The shift from pilot projects to full-scale AI fluency '
 author: '[dr. Hicham Zmarrou](https://www.linkedin.com/in/hzmarrou/)'
 date: "`r Sys.Date()`"
 description: This GitBook is an example of a GitBook for teaching. It can be adapted
