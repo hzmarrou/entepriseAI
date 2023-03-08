@@ -30,7 +30,7 @@ I will focus specifically on GitBooks that are made in [Rstudio](https://rstudio
 
 ## Why use a GitBook for teaching?
 
-**To spead the workload**
+**To spead the workload** {-}
 
 My challenge was that I had to translate all tutorial instructions from proprietary software to R, and there was not enough time to complete this task before the course commenced. By making the tutorial instructions available in [this GitBook](https://cjvanlissa.github.io/TCSM/), I was able to continue translating tutorial instructions *while the semester was ongoing*, and push updates to GitHub in time for each session, which were immediately available to all students. The parallel with the current situation is that some courses are now forced to start teaching in an online format, without having enough time to completely prepare. By using a GitBook, you can spread out the workload of preparing your materials across the semester. [This is the finished GitBook](https://cjvanlissa.github.io/TCSM/)
 
