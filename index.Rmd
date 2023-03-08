@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 description: This GitBook is an example of a GitBook for teaching. It can be adapted
   for specific courses. The output format for this example is bookdown::gitbook.
 documentclass: book
-github-repo: "hzmarrou/EnterpriseAI"
+github-repo: "hzmarrou/enterpriseAI"
 link-citations: yes
 bibliography:
 - book.bib
